@@ -1,0 +1,7 @@
+application pour une agence immobilière 
+-> appartement moderne dans un immeuble construit récemment
+-> objets un peu futuriste et luxe
+-> appartement jamais habité auparavant
+-> appartement qui possède peu de meubles car jamais habité
+-> meubles en verre avec des façades en verre
+-> chaque pièce peuvent etre visite en appuyant sur un plan qui leur est reliée à partir du plan en 3d de base de l'appartement, après il sera possible de tourner sur soi même pour pouvoir visualiser la pièce entièrement.
